@@ -1,0 +1,18 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "managedClusters_example_voting_app_name": {
+            "value": null
+        },
+        "workspaces_DefaultWorkspace_9305bb20_ec55_4ee4_a68c_ee0db160dd61_EUS_externalid": {
+            "value": null
+        },
+        "publicIPAddresses_b958cadf_c5a9_4537_baf8_04dd7ea7b2d8_externalid": {
+            "value": null
+        },
+        "userAssignedIdentities_example_voting_app_agentpool_externalid": {
+            "value": null
+        }
+    }
+}
